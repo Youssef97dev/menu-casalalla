@@ -1,9 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Menu Casa Lalla Takerkoust - Vibe Agafay Desert",
-  description:
-    "Discover Casalalla Takerkoust Restaurant: A Culinary Gem Near Marrakech - Casalalla is a must-visit restaurant that offers a unique dining experience. Enjoy a delightful blend of traditional Moroccan and international cuisine, meticulously prepared with fresh, local ingredients. With breathtaking views of Takerkoust Lake and the Atlas Mountains, Casalalla provides the perfect backdrop for a memorable meal.",
+  title: "Menu Boho House",
+  description: "a home away from home",
 };
 
 export default function RootLayout({ children }) {
